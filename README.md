@@ -5,7 +5,7 @@ Created by: Bhavika Gandotra
 
 Bharat Quest is a multi-disciplinary website designed to provide comprehensive information about hotels, restaurants, and beautiful locations in various cities across India. It is a one-stop destination for travelers and locals alike to explore, plan, and discover the hidden gems of India's diverse cultural landscape.
 
-**Website Link:** [Bharat Quest](https://www.example.com)
+**Live Website Link:** [Bharat Quest](https://bhavikaprojects.000webhostapp.com/Bharat%20Quest/index.html)
 
 ## Features
 
