@@ -25,7 +25,3 @@ We welcome contributions from the community to improve Bharat Quest and make it 
 ## Feedback
 
 We value your feedback! If you have any questions, comments, or suggestions, please feel free to reach out to us.
-
-## License
-
-This project is licensed under the [MIT License](link_to_license_file).
